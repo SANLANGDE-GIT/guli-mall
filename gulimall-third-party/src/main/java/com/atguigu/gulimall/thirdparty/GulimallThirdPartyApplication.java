@@ -1,4 +1,4 @@
-package com.atguigu.gulimall.gulimall.thirdparty;
+package com.atguigu.gulimall.thirdparty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

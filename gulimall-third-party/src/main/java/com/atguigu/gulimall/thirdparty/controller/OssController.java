@@ -1,4 +1,4 @@
-package com.atguigu.gulimall.gulimall.thirdparty.controller;
+package com.atguigu.gulimall.thirdparty.controller;
 
 import com.aliyun.oss.OSS;
 import com.aliyun.oss.common.utils.BinaryUtil;
